@@ -1,0 +1,5 @@
+- [x] Add insurance, optional laundry, condition and elevator fields to listing form, persistence and details.
+- [x] Match requested Telegram template and send facade-first albums with safe fallback.
+- [x] Normalize all listing images and add card/detail galleries with facade selection.
+- [x] Run 14 rule/flow tests and check a real six-photo listing on desktop/mobile without overflow or runtime errors.
+- [ ] Verify authenticated save and real Telegram channel delivery — blocked on an active Firebase employee session unavailable to automated checks.
